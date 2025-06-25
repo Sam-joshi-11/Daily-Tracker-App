@@ -1,0 +1,5 @@
+1.create a programming pipeline using python for jetson nano . use the llm to understand  spoken text and move accordingly . it has a four directions rotate right rotate Left move forward and move backward. for example when i say don't go right wait for 10 second turn right again wait for another 10 seconds and continue for another 10 seconds and stop. convert the spoken natural language into four directions and specified above . along with the wait option and stop option.
+
+
+
+2.create mermaid live code for the generation  of the block diagram/flow chart of the above process in the project
